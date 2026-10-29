@@ -1,16 +1,13 @@
 # Active Directory Home Lab
 
 ## Overview
-
-This project documents the creation of a Windows Server Active Directory home lab built in a virtualized environment using KVM/QEMU. The goal of this lab was to gain hands-on experience with Windows Server administration, Active Directory Domain Services (AD DS), user and group management, file sharing, and troubleshooting common enterprise administration tasks.
-
-This lab was built to simulate a small business environment and strengthen practical IT administration skills beyond classroom learning.
+Microsoft AD server config for user management
 
 ---
 
 ## Objectives
 
-- Deploy a Windows Server virtual machine
+- Deploy Windows server 2022 virtual machine through virt-manager
 - Install and configure Active Directory Domain Services (AD DS)
 - Promote the server to a Domain Controller
 - Create an Active Directory domain
@@ -25,7 +22,7 @@ This lab was built to simulate a small business environment and strengthen pract
 
 ### Host System
 
-- Arch Linux
+- Void linux
 - KVM/QEMU
 - virt-manager
 
