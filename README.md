@@ -130,7 +130,7 @@ During implementation, permission conflicts were encountered and resolved, provi
 
 # Troubleshooting Experience
 
-One of the most valuable parts of this project was resolving real administrative issues.
+
 
 Examples included:
 
@@ -142,7 +142,7 @@ Examples included:
 - NTFS and Share permission configuration
 - User access validation
 
-Working through these problems provided hands-on experience similar to real-world IT support scenarios.
+
 
 ---
 
@@ -162,25 +162,7 @@ Working through these problems provided hands-on experience similar to real-worl
 
 ---
 
-# Lessons Learned
 
-This project reinforced the importance of hands-on learning. Building the environment from scratch required researching problems, troubleshooting configuration issues, and understanding how Windows Server components work together.
-
-The experience improved my understanding of enterprise identity management, Windows administration, and system troubleshooting far more than simply watching tutorials.
-
----
-
-# Future Improvements
-
-- Configure Group Policy Objects (GPOs)
-- Deploy DHCP services
-- Add roaming profiles
-- Configure folder redirection
-- Implement Remote Desktop Services
-- Deploy Windows clients automatically
-- Integrate PowerShell automation
-- Configure Windows Server Backup
-- Expand the lab with additional domain controllers
 
 ---
 
@@ -193,11 +175,3 @@ Documentation/
 ```
 
 ---
-
-## Author
-
-**Aysar Aljiryawee**
-
-Cybersecurity Student
-
-Focused on Windows administration, networking, Linux, virtualization, and cybersecurity.
