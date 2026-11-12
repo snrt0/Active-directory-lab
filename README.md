@@ -1,7 +1,7 @@
 # Active Directory Home Lab
 
 ## Overview
-Microsoft AD server config for user management
+Microsoft AD server config for user management in a corporate/professional enviorment
 
 ---
 
